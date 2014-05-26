@@ -73,7 +73,7 @@ Tags: responsive, html5 template, one page, landing, startup, business, company,
 }
 
 #intro { 
-	background-image: url(/static/img/landing/crowd.jpg); 
+	background-image: url(img/landing/crowd.jpg); 
 }
 
 .parallax {
